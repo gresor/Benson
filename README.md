@@ -1,2 +1,3 @@
 # Benson
-using MTA turnstile data to estimate areas popular with tourists
+### Using MTA turnstile data to estimate areas popular with tourists
+The goals of this project was to identify subway stations(in New York) with the highest proportions of tourists using them.  To do this I used average hotel price as a proxy for how touristy different times of the year are. I then saw which subways stations there traffic (based off of MTA turnstile entrance counts) fluctuate along with average hotel room price and ranked the stations by how strongly there traffic correlated with hotel room price. 
